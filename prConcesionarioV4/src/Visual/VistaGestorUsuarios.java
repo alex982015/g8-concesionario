@@ -18,7 +18,7 @@ import Tabla.TablaGestorUsuarios;
 
 @SuppressWarnings("serial")
 public class VistaGestorUsuarios extends JFrame {
-//variables
+//Variables
   	private javax.swing.JButton BtnFoto;
     private javax.swing.JButton BtnAdd;
     private javax.swing.JButton BtnEdit;

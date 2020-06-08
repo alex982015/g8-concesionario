@@ -18,10 +18,10 @@ DIEGO GARCIA MUÑOZ /
 
 # Objetivos Semana del 25/05: :scream_cat:
 - [X] Retocar Interfaz gráfica (_Añadir logo a las paginas principales, toques de color_)
-- [ ] Finalizar pruebas nivel profundo
-- [ ] Finalizar pruebas nivel superficial
+- [X] Finalizar pruebas nivel profundo
+- [X] Finalizar pruebas nivel superficial
 - [X] Finalizar documentación
 
 # Objetivos Semana del 1/06: :smile:
-- [ ] Finalizar pruebas
-- [ ] Últimos ajustes de interfaz gráfica
+- [X] Finalizar pruebas
+- [X] Últimos ajustes de interfaz gráfica

@@ -1,0 +1,11 @@
+MODELO VISTA CONTROLADOR CLASES JAVA
+
+MODELO
+
+Vehiculo, Usuario, Operacion, GestorVehiculos, GestorUsuarios, GestorOperaciones
+
+VISTA (CONTROLADOR INTEGRADO EN LAS VISTAS)
+
+VistaGestorVehiculos, VistaGestorUsuarios, VistaGestorOperaciones, VistaGestorVehiculosMecanico, VistaVenta, VistaVenta2, VistaAlquiler, VistaAlquiler2
+
+El resto de clases no usan modelo, sino que se conectan directamente a la base de datos.

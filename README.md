@@ -25,3 +25,7 @@ DIEGO GARCIA MUÑOZ /
 # Objetivos Semana del 1/06: :smile:
 - [X] Finalizar pruebas
 - [X] Últimos ajustes de interfaz gráfica
+
+
+#Nota para el profesor:
+-  La versión de la app está contenida en el zip de nombre Concesionariov5.
